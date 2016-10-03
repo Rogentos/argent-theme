@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Argent-daylight
+Type=X-GNOME-Metatheme
+Comment=Argent Linux daylight theme
+Encoding=UTF-8
+GtkTheme=Argent-daylight
+MetacityTheme=Argent-daylight
+IconTheme=Numix-Circle
+CursorTheme=Default
+CursorSize=24
