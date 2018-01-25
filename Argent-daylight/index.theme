@@ -5,6 +5,6 @@ Comment=Argent Linux daylight theme
 Encoding=UTF-8
 GtkTheme=Argent-daylight
 MetacityTheme=Argent-daylight
-IconTheme=Numix-Circle
+IconTheme=material-design-darkyellow
 CursorTheme=Default
 CursorSize=24

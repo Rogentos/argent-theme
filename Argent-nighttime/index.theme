@@ -5,6 +5,6 @@ Comment=Argent Linux nighttime theme
 Encoding=UTF-8
 GtkTheme=Argent-nighttime
 MetacityTheme=Argent-nighttime
-IconTheme=Numix-Circle
+IconTheme=material-design-darkyellow
 CursorTheme=Default
 CursorSize=24

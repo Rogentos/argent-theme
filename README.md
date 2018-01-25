@@ -1,4 +1,4 @@
-# kogaion-theme
+# argent-theme
 	best to be viewed togheter with Numix-Circle icon theme
 	https://github.com/numixproject/numix-icon-theme-circle
 
