@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=argent-bright
+Type=X-GNOME-Metatheme
+Comment=argent bright theme
+Encoding=UTF-8
+GtkTheme=argent-bright
+MetacityTheme=argent-bright
+IconTheme=Numix-Circle
+CursorTheme=Default
+CursorSize=24

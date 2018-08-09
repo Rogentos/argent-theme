@@ -1,0 +1,72 @@
+/*
+QWidget {
+    border: 1px solid red;
+}
+*/
+
+
+QPushButton {
+    border: 1px solid palette(dark);
+    min-width: 80px;
+    min-height: 20px;
+    padding: 4px
+}
+
+QPushButton:hover {
+    background: palette(highlight);
+}
+
+QPushButton:pressed {
+    background:  palette(highlight);
+}
+
+QPushButton:flat {
+    border: none;
+}
+
+QPushButton:default {
+    border-color: palette(highlight);
+}
+
+
+QTabWidget { 
+    background-color:  palette(light);
+}
+
+QTabBar {
+    background-color:  palette(button); 
+}
+
+QTabBar::tab { 
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border: 1px solid palette(mid);
+    border-bottom: none;
+    margin-bottom: 1px;
+    margin-left: 0px;
+    margin-right: -1px;
+    min-width: 10ex;
+    padding: 4px;
+}
+
+QTabBar::tab:!selected {
+    margin-top: 3px; 
+}
+
+
+QTabBar::tab:selected {
+    background-color:  palette(light);
+    border-bottom-color: palette(light); 
+    border-top: 2px solid palette(highlight);
+    margin-right: -1px;
+    margin-bottom: 0px;
+}
+
+QTabBar::tab:last {
+    margin-right: 0; 
+}
+l
+
+QTabBar::tab:only-one {
+    margin: 0; 
+}

@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=argent-nighttime
+Type=X-GNOME-Metatheme
+Comment=argent nighttime theme
+Encoding=UTF-8
+GtkTheme=argent-nighttime
+MetacityTheme=argent-nighttime
+IconTheme=Numix-Circle
+CursorTheme=Default
+CursorSize=24

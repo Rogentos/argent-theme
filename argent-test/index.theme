@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=argent-test
+Type=X-GNOME-Metatheme
+Comment=argent test theme
+Encoding=UTF-8
+GtkTheme=argent-test
+IconTheme=material-design-light
+CursorTheme=Default
+CursorSize=16
